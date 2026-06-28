@@ -1,0 +1,26 @@
+{
+  "actual_count": 50,
+  "shard_count": 5,
+  "source_post_count": 10,
+  "unique_user_prompts": 50,
+  "length_buckets": {
+    "short": {
+      "count": 20,
+      "share": 0.4
+    },
+    "normal": {
+      "count": 20,
+      "share": 0.4
+    },
+    "expanded": {
+      "count": 10,
+      "share": 0.2
+    },
+    "long": {
+      "count": 0,
+      "share": 0.0
+    }
+  },
+  "target_count": 50,
+  "count_matches_target": true
+}
